@@ -35,6 +35,11 @@ These insights were used as a starting point for the UX evaluation, rather than 
 - Prioritized notifications
 - Low-fidelity interface concepts for selected improvements
 
+## Low-Fidelity Wireframes
+
+The following low-fidelity wireframes illustrate the proposed UX improvements, focusing on shipping cost transparency, order processes, return management, and notification prioritization.
+![Dolap UX Wireframes](wireframes.png)
+
 ## Project Deliverables
 The repository includes my UX analysis report and supporting wireframes.
 
